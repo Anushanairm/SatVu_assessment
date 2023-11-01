@@ -1,2 +1,2 @@
-# SatVu_assessment
-SatVu Technical Assessment
+# Vu_assessment
+Technical Assessment
